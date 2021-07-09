@@ -38,10 +38,15 @@ Utilitários
 - [randomuser.me](https://randomuser.me/photos)
 - [IconMoon](https://icomoon.io/app/#/select)
 
-## 💻 Projeto
+## 💻 Projeto proposto pela rocketseat
 
-OriginSix é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer. <br>
-(NLW/Together: é um evento da rocketseat para dar o próximo passo na sua evolução como programadora ou programador)
+(NLW/Together: é um evento de uma semana da rocketseat para dar o próximo passo na evolução como programadora ou programador)<br>
+OriginSix é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer. 
+
+## 💻 Minha readaptação do projeto proposto
+
+Dev.Web é uma página informativa no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer. 
+
 
 ## 🔖 Layout
 
