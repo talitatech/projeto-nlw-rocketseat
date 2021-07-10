@@ -47,7 +47,7 @@ OriginSix é uma página institucional no formato One Page, responsiva, para usa
 
 Dev.Web é uma página informativa no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. <br>
 Seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer. <br>
-Objetivo: indicar alguns canais informativos onde pessoas desenvolvedoras web possam se atualizar nesta área<br>
+Objetivo: indicar alguns canais informativos onde pessoas desenvolvedoras web possam se atualizar nesta área.<br>
 
 
 ## 🔖 Layout
